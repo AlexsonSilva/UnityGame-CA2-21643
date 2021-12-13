@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9A921C98-A57E-CCD3-B1B1-F5F9CC052133}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BallonMove.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Q3_level_1.cs" Line="10" Column="28" IsPinned="True" />
+      <File FileName="Assets/Scripts/FirstPersonController.cs" />
+      <File FileName="Assets/Scripts/Shooting.cs" />
+      <File FileName="Assets/Scripts/Arrow_Detonator.cs" />
+      <File FileName="Assets/Scripts/Q1_level_1.cs" />
+      <File FileName="Assets/Scripts/BallonMove.cs" Line="66" Column="36" />
+      <File FileName="Assets/Scripts/Q2_level_1.cs" />
+      <File FileName="Assets/Scripts/Q4_level_1.cs" />
+      <File FileName="Assets/Scripts/Q5_level_1.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArrowGame" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d8f9cb44-b94a-4546-b153-d5666d759ef0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
